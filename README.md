@@ -6,7 +6,7 @@
   <img alt="" src="assets/Photoblog.png" width="100%">
 </p>
 
-## About  Project
+## 🔗 About  Project
 
 - This project was developed during Stage 03 classes at Explorer. A gallery interface that instantly updates different images when the page is reloaded, where all transitions and image saturation have been customized.
 
